@@ -1,0 +1,26 @@
+# 🔄 Customer Churn Prediction
+
+## 📁 Project Overview
+This project uses machine learning to predict whether a customer is likely to churn based on their demographics, account status, and service usage. The goal is to help a telecom company identify high-risk customers and take proactive steps to improve retention.
+
+## 🧰 Tools Used
+- Python (Pandas, NumPy, Scikit-learn)
+- Matplotlib & Seaborn (for data visualization)
+- Jupyter Notebook (for analysis)
+
+## 🧠 Methods
+- Data cleaning and exploratory data analysis (EDA)
+- Feature engineering (e.g., encoding contract types)
+- Logistic Regression and Random Forest models
+- Confusion matrix, accuracy score, and ROC AUC evaluation
+
+## 🔍 Key Insights
+- Customers on month-to-month contracts were far more likely to churn.
+- Long-tenure customers and those using fiber internet had distinct churn patterns.
+- A simple logistic model correctly predicted ~80% of churn cases.
+
+## 🧾 Dataset
+- [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+## 📈 Sample Output
+_You can add screenshots of confusion matrix, ROC curve, or data visuals here._
