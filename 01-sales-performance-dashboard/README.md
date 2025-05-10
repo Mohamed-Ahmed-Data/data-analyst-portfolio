@@ -4,7 +4,7 @@
 This dashboard analyzes sales data from a fictional superstore to uncover business insights such as top-performing regions, product profitability, and monthly sales trends. It is designed to help stakeholders quickly identify key sales drivers and areas for improvement.
 
 ## 🧰 Tools Used
-- Microsoft Excel or Power BI
+- Microsoft Excel
 - PivotTables and Charts
 - Filters and Slicers for interactivity
 
