@@ -30,6 +30,18 @@ Here’s a sample chart from the exploratory data analysis showing churn pattern
 
 ![Churn by Contract Type](Data%20Visualizations/Churn_by_ContractType.png)
 
+
+## 📂 Additional Visualizations
+
+Explore more EDA charts that highlight customer churn trends:
+
+📁 [View all visualizations →](Data%20Visualizations)
+
+These include:
+- 📊 Churn Distribution
+- 💳 Churn by Payment Method
+- 💰 Monthly Charges vs Churn (Box Plot)
+
 ---
 
 ## 📊 Key Insights  
