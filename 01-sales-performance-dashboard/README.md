@@ -3,6 +3,15 @@
 ## 📁 Project Overview
 This dashboard analyzes sales data from a fictional superstore to uncover business insights such as top-performing regions, product profitability, and monthly sales trends. It is designed to help stakeholders quickly identify key sales drivers and areas for improvement.
 
+---
+
+## 🎯 Objectives  
+- Analyze sales, profit, and quantity data across time, categories, and regions  
+- Identify top-performing product segments and underperforming regions  
+- Provide actionable insights to improve business performance  
+- Practice Excel data cleaning, pivot tables, and dashboard design
+
+
 ## 🧰 Tools Used
 - Microsoft Excel
 - PivotTables and Charts
@@ -12,6 +21,17 @@ This dashboard analyzes sales data from a fictional superstore to uncover busine
 - The West region produced the highest profit margin.
 - Technology products drove the most revenue and profitability.
 - Sales spiked during Q4, particularly in November and December.
+
+👉 Full insights are detailed in the [`04_Notes`](./04_Notes) folder.
+
+---
+
+## ✅ Skills Demonstrated  
+- Data cleaning and transformation  
+- Creating pivot tables and charts  
+- Designing interactive Excel dashboards with slicers  
+- Communicating findings through visuals and written insights  
+- Version control using Git & GitHub
 
 ## 🧾 Dataset
 - [Sample Superstore Sales Data](https://community.tableau.com/s/question/0D54T00000CWe5vSAD/sample-superstore-sales-excelxls)
