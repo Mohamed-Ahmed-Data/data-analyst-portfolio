@@ -22,6 +22,16 @@ This project uses a real-world telecom dataset to build a predictive model for c
 
 ---
 
+---
+
+## 📸 Visual Example
+
+Here’s a sample chart from the exploratory data analysis showing churn patterns by contract type:
+
+![Churn by Contract Type](Data%20Visualizations/Churn_by_ContractType.png)
+
+---
+
 ## 📊 Key Insights  
 - The churn rate was ~26.5%.
 - Customers with **month-to-month contracts** were far more likely to churn.
