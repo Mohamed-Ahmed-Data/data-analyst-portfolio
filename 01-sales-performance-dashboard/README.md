@@ -17,5 +17,13 @@ This dashboard analyzes sales data from a fictional superstore to uncover busine
 - [Sample Superstore Sales Data](https://community.tableau.com/s/question/0D54T00000CWe5vSAD/sample-superstore-sales-excelxls)
 
 ## 📸 Dashboard Preview
-_A screenshot of the final dashboard can be added here once it's created._
+<img width="1138" alt="Screenshot 2025-05-11 at 12 44 49 PM" src="https://github.com/user-attachments/assets/b9d43851-c7fb-458e-a8cd-5083e6dfbeeb" />
 
+---
+
+## 📬 Connect With Me
+
+I'm currently seeking opportunities in **eCommerce** and **SEO analytics**.  
+If you're a recruiter or employer interested in data-driven business insights, feel free to reach out or view the rest of my portfolio.
+
+[📧 Email](mailto:moahmed1092@gmail.com) | [💼 LinkedIn]((https://www.linkedin.com/in/mohamed-ahmed-6a35711ba/)) | [📂 Portfolio](https://github.com/Mohamed-Ahmed-Data/data-analyst-portfolio)
