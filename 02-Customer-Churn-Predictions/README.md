@@ -42,12 +42,6 @@ This project uses a real-world telecom dataset to build a predictive model for c
 
 ---
 
-02-customer-churn-prediction/
-├── churn-prediction-logistic.ipynb # Jupyter notebook with full analysis and model
-└── README.md # Project summary and documentation
-
----
-
 ## 🔗 Connect With Me  
 **[LinkedIn – Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-6a35711ba/)**  
 **[GitHub Portfolio](https://github.com/Mohamed-Ahmed-Data)**
