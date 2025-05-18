@@ -22,7 +22,7 @@ This dashboard analyzes sales data from a fictional superstore to uncover busine
 - Technology products drove the most revenue and profitability.
 - Sales spiked during Q4, particularly in November and December.
 
-👉 Full insights are detailed in the [`04_Notes`](./04_Notes) folder.
+👉 Full insights are detailed in the [`Docs`](./Docs) folder.
 
 ---
 
