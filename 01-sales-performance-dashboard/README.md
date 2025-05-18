@@ -26,4 +26,4 @@ This dashboard analyzes sales data from a fictional superstore to uncover busine
 I'm currently seeking opportunities in **eCommerce** and **SEO analytics**.  
 If you're a recruiter or employer interested in data-driven business insights, feel free to reach out or view the rest of my portfolio.
 
-[📧 Email](mailto:moahmed1092@gmail.com) | [💼 LinkedIn]((https://www.linkedin.com/in/mohamed-ahmed-6a35711ba/)) | [📂 Portfolio](https://github.com/Mohamed-Ahmed-Data/data-analyst-portfolio)
+[📧 Email](mailto:moahmed1092@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-6a35711ba/) | [📂 Portfolio](https://github.com/Mohamed-Ahmed-Data/data-analyst-portfolio)
